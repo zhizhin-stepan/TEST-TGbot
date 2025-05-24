@@ -7,6 +7,9 @@ body {
     line-height: 24px;
     color: #5D4C6A;
     background-color: #E4E4EF;
+    background-image: url('../url/background.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
 
 h1 {
